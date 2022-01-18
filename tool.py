@@ -1,17 +1,4 @@
-import os
-print('install libraries...')
-os.system('pip install geocoder')
-os.system('cls||clear')
-os.system('pip install colorama')
-os.system('cls||clear')
-os.system('pip install cryptocode')
-os.system('cls||clear')
-os.system('pip install threading')
-os.system('cls||clear')
-os.system('pip install telebot')
-os.system('cls||clear')
-print('all librares install')
-os.system('cls||clear')
+
 import scanp
 import ipi
 import crypto
